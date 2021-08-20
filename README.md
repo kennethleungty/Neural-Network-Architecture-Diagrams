@@ -1,2 +1,4 @@
 # Neural Network Architecture Diagrams
-Diagrams for visualizing neural network architecture (Created with diagrams.net)
+Using diagrams.net (aka draw.io) to generate diagrams to better visualization neural network model architecture
+
+Link to Medium article: Coming soon
