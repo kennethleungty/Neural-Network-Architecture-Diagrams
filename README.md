@@ -2,3 +2,13 @@
 Using diagrams.net (aka draw.io) to generate diagrams to better visualize neural network model architecture
 
 Link to Medium article: https://towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875
+
+___
+
+## Diagram Examples
+
+#### YOLO v1
+![YOLO V1](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/yolo_v1_image.png?raw=true)
+
+#### VGG-16
+![VGG-16](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/vgg16_image.png?raw=true)
