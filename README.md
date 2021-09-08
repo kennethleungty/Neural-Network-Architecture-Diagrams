@@ -13,8 +13,8 @@ ___
 ![VGG-16](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/vgg16_image.png?raw=true)
 
 #### Autoencoder
-![Autoencoder](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/autoencoder_lstm.png?raw=true)
-Credits to [GabrielLima1995](https://github.com/GabrielLima1995) for the submission
+![Autoencoder](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/autoencoder_lstm.png?raw=true)  
+Credits to [GabrielLima1995](https://github.com/GabrielLima1995) for the Autoencoder submission
 
 ## Contributing
 - Have you built certain architecture diagrams with diagrams.net which you would like to share with everyone? You're welcome to contribute with a pull request! (Credits will given to you)
