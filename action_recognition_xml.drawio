@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="QJjx0-fPxzvcmYibJWj1" name="Page-1">
-        <mxGraphModel dx="1833" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+        <mxGraphModel dx="766" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -115,8 +115,8 @@
                 <mxCell id="35" value="&lt;span style=&quot;font-family: Georgia; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1 x 10&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Georgia;fontColor=#808080;" parent="1" vertex="1">
                     <mxGeometry x="469" y="282.94" width="54" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="46" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Action Recognition&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;fontFamily=Georgia;fontColor=#808080;shadow=0;" parent="1" vertex="1">
-                    <mxGeometry x="-11" y="345" width="140" height="30" as="geometry"/>
+                <mxCell id="46" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Action Recognition&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=7;fontFamily=Georgia;fontColor=#333333;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="512" y="262.2" width="140" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
