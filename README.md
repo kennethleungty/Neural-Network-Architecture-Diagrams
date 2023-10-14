@@ -39,7 +39,10 @@ ___
 #### ConvLSTM2D for Action Recognition
 ![RBM](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/action_recognition_xml.png?raw=true)  
 Credits to [Faiga Alawad](https://github.com/Faiga91) for the submission
-
+___
+#### U-Net
+![U-Net](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/U-Net.png?raw=true)  
+Credits to [Luca Marini](https://github.com/lucamarini22) for the submission
 
 
 ___
