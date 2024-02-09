@@ -43,7 +43,10 @@ ___
 #### U-Net
 ![U-Net](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/U-Net.png?raw=true)  
 Credits to [Luca Marini](https://github.com/lucamarini22) for the submission
-
+___
+#### 1D Complex-Valued Neural Network (CVNN)
+![1D-CVNN](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/1D%20Complex-Valued%20Neural%20Network%20(CVNN).svg?raw=true)  
+Credits to [Moh Kashani](https://github.com/mkashani-phd) for the submission
 
 ___
 ## Contributing
