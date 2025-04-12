@@ -47,7 +47,10 @@ ___
 #### 1D Complex-Valued Neural Network (CVNN)
 ![1D-CVNN](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/1D%20Complex-Valued%20Neural%20Network%20(CVNN).svg?raw=true)  
 Credits to [Moh Kashani](https://github.com/mkashani-phd) for the submission
-
+___
+#### Feature Pyramid Network
+![Feature-Pyramid](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams/blob/main/Feature%20Pyramid%20Network%20(FPN).png?raw=true)
+Credits to [Serge Bishyr](https://github.com/SeriyBg) for the submission
 ___
 ## Contributing
 - Have you built certain architecture diagrams with diagrams.net which you would like to share with everyone? You're welcome to contribute with a pull request! (Credits will given to you)
